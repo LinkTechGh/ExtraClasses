@@ -1,0 +1,25 @@
+body{
+    box-sizing: border-box;
+}
+
+
+footer{
+    background-color: #c42424;
+    position: relative;
+    top: 70vh;
+    
+}
+#footer-container{
+    display: flex;
+    justify-content: center;
+   
+}
+
+#f-content{
+    margin: auto;
+}
+
+
+#f-content h4{
+    text-align: center;
+}
